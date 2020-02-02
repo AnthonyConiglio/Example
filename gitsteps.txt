@@ -1,0 +1,10 @@
+ls -al
+git init
+ls -al
+git status
+git add .
+git status
+git commit -m "Coniglio_p2"
+git status
+git remote add origin https://github.com/AnthonyConiglio/Coniglio_PA2.git
+git push -u origin master
